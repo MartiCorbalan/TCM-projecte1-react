@@ -1,0 +1,18 @@
+.box {
+  height: 200px;
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+}
+.box2 {
+  background-color: gray;
+  width: 30%;
+  border: 2px solid rgb(0, 255, 34);
+}
+.navbar {
+  width: 100%;
+  background-color: indianred;
+  height: 50px;
+}
+.botones {
+}
